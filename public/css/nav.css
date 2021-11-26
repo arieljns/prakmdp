@@ -34,9 +34,9 @@ body {
     background-color: #444444;
 }
 
-.nav__link--active {
-    color: #eeeeee;
-}
+/*.nav__link--active {
+    color: ;
+}*/
 
 .nav__icon {
     font-size: 19px;
